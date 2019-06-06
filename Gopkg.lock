@@ -449,6 +449,7 @@
   input-imports = [
     "github.com/google/uuid",
     "github.com/hyperledger/fabric/core/chaincode/shim",
+    "github.com/hyperledger/fabric/protos/peer",
   ]
   solver-name = "gps-cdcl"
   solver-version = 1
